@@ -463,6 +463,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for building GUI Applications*
 
+* [gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 * [go-gtk](http://mattn.github.io/go-gtk/) - Go bindings for GTK
 * [go-qml](https://github.com/go-qml/qml) - QML support for the Go language
 * [goqt](https://github.com/visualfc/goqt) - Golang bindings to the Qt cross-platform application framework.
